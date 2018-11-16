@@ -1,2 +1,0 @@
-# ArithmeticalCalculations
-Created with CodeSandbox
